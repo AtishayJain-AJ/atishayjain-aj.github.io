@@ -3,11 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: PhD Student, Brown University
-email: "atishay_jain@brown.edu"
-linkedin_username: "atishay-jain-511950121"
-scholar_userid: "WFYvgdcAAAAJ"
-github_username: "AtishayJain-AJ"
-orcid_id: "0000-0001-9972-4217"
 
 
 profile:
