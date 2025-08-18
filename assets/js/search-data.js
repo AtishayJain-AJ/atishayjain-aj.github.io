@@ -407,12 +407,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-titled-improved-spatial-transcriptomics-clustering-with-nested-graph-neural-networks-was-accepted-at-acm-bcb-2025",
           title: 'Our paper titled “Improved Spatial Transcriptomics Clustering with Nested Graph Neural Networks” was...',
           description: "",
-          section: "News",},{id: "projects-sting",
-          title: 'STING',
-          description: "Spatial Transcriptomics cluster Inference with Nested Graph neural networks",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-large-image-segmentation-with-gnn",
+          section: "News",},{id: "projects-large-image-segmentation-with-gnn",
           title: 'Large Image Segmentation with GNN',
           description: "Memory Efficient Semantic Segmentation of Large Microscopy Images Using Graph-based Neural Networks",
           section: "Projects",handler: () => {
@@ -432,6 +427,11 @@ ninja.data = [{
           description: "Using Siamese networks to predict antibiotic resistance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
+            },},{id: "projects-sting",
+          title: 'STING',
+          description: "Spatial Transcriptomics cluster Inference with Nested Graph neural networks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/STING.html";
             },},{
         id: 'social-email',
         title: 'email',
