@@ -24,5 +24,5 @@ superpixels generated and their labels to generate the predicted segmentation ma
 </div>
 
 
-[GitHub](https://github.com/rsinghlab/STING), [Publication TBA]
+[GitHub](https://github.com/rsinghlab/STING)   [Publication TBA]
 

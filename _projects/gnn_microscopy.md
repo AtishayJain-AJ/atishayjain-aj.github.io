@@ -20,4 +20,4 @@ This project is a graph neural network (GNN)-based framework applied to large-sc
 </div>
 
 
-[GitHub](https://github.com/rsinghlab/gnn_microscopy_segment), [Publication](https://academic.oup.com/jmicro/article-abstract/73/3/275/7326526)
+[GitHub](https://github.com/rsinghlab/gnn_microscopy_segment)  [Publication](https://academic.oup.com/jmicro/article-abstract/73/3/275/7326526)
