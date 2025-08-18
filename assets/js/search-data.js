@@ -407,31 +407,31 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-titled-improved-spatial-transcriptomics-clustering-with-nested-graph-neural-networks-was-accepted-at-acm-bcb-2025",
           title: 'Our paper titled “Improved Spatial Transcriptomics Clustering with Nested Graph Neural Networks” was...',
           description: "",
-          section: "News",},{id: "projects-large-image-segmentation-with-gnn",
-          title: 'Large Image Segmentation with GNN',
-          description: "Memory Efficient Semantic Segmentation of Large Microscopy Images Using Graph-based Neural Networks",
+          section: "News",},{id: "projects-evaluating-methods-of-classifying-and-segmenting-point-clouds",
+          title: 'Evaluating Methods of Classifying and Segmenting Point Clouds',
+          description: "Point Cloud Segementation using Graph Neural Networks and Auto-Encoders",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
+              window.location.href = "/projects/cs1430.html";
             },},{id: "projects-disease-prediction-using-deep-learning-methods",
           title: 'Disease Prediction Using Deep Learning Methods',
           description: "Rare disease prediction with one-shot and multi-model learning",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-evaluating-methods-of-classifying-and-segmenting-point-clouds",
-          title: 'Evaluating Methods of Classifying and Segmenting Point Clouds',
-          description: "Point Cloud Segementation using Graph Neural Networks and Auto-Encoders",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
+              window.location.href = "/projects/cs2470.html";
             },},{id: "projects-predicting-antibiotic-resistance-using-one-shot-learning",
           title: 'Predicting Antibiotic Resistance Using One-shot Learning',
           description: "Using Siamese networks to predict antibiotic resistance",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
+              window.location.href = "/projects/cs2952g.html";
+            },},{id: "projects-large-image-segmentation-with-gnn",
+          title: 'Large Image Segmentation with GNN',
+          description: "Memory Efficient Semantic Segmentation of Large Microscopy Images Using Graph-based Neural Networks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gnn_microscopy.html";
             },},{id: "projects-sting",
           title: 'STING',
           description: "Spatial Transcriptomics cluster Inference with Nested Graph neural networks",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/STING.html";
+              window.location.href = "/projects/sting.html";
             },},{
         id: 'social-email',
         title: 'email',
