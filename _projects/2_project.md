@@ -2,7 +2,7 @@
 layout: page
 title: Large Image Segmentation with GNN
 description: Memory Efficient Semantic Segmentation of Large Microscopy Images Using Graph-based Neural Networks
-img: assets/img/GNNLarge.png
+img: assets/img/GNNLarge.jpg
 importance: 2
 #category: work
 giscus_comments: true
@@ -12,7 +12,7 @@ This project is a graph neural network (GNN)-based framework applied to large-sc
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/GNNLarge.png" title="GNN Framework" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/GNNLarge.jpg" title="GNN Framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
