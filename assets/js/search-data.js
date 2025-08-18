@@ -407,51 +407,31 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-titled-improved-spatial-transcriptomics-clustering-with-nested-graph-neural-networks-was-accepted-at-acm-bcb-2025",
           title: 'Our paper titled “Improved Spatial Transcriptomics Clustering with Nested Graph Neural Networks” was...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-sting",
+          title: 'STING',
+          description: "Spatial Transcriptomics cluster Inference with Nested Graph neural networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-large-image-segmentation-with-gnn",
+          title: 'Large Image Segmentation with GNN',
+          description: "Memory Efficient Semantic Segmentation of Large Microscopy Images Using Graph-based Neural Networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-disease-prediction-using-deep-learning-methods",
+          title: 'Disease Prediction Using Deep Learning Methods',
+          description: "Rare disease prediction with one-shot and multi-model learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-evaluating-methods-of-classifying-and-segmenting-point-clouds",
+          title: 'Evaluating Methods of Classifying and Segmenting Point Clouds',
+          description: "Point Cloud Segementation using Graph Neural Networks and Auto-Encoders",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-predicting-antibiotic-resistance-using-one-shot-learning",
+          title: 'Predicting Antibiotic Resistance Using One-shot Learning',
+          description: "Using Siamese networks to predict antibiotic resistance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
             },},{
         id: 'social-email',
         title: 'email',
